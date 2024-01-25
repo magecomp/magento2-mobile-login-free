@@ -40,7 +40,7 @@ We're always interested in growing mutually by inviting developers & motivating 
 <img src="https://i.ibb.co/NjGRFCt/composer.png">
 Specify project dependencies using a JSON file & leave everything to Composer.
 
-# Compatible with Hyva 
+# Compatible with Hyvä 
 
 ![Screenshot (20)](https://github.com/magecomp/magento2-mobile-login-free/assets/8856845/c0a5c632-fa58-4b84-bba4-2a3d26e4358e)
 
