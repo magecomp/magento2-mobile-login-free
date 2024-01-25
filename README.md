@@ -25,6 +25,7 @@ We're always interested in growing mutually by inviting developers & motivating 
 # Indirect Benefits
 
 * A speedy way for the user to log in
+* Boost shopping experience & convenient to customers
 
 # What About the Pricing?
 
