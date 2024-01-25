@@ -3,14 +3,14 @@
 
 MageComp's FREE Magento 2 Mobile OTP Login extension expedites the sign-in process for your customers by allowing them to swiftly authenticate using their registered mobile number.
 
-<a href="https://magecomp.com/magento-2-chatgpt-ai-content-generator.html" target="_blank"><img width="150" height="46" src="https://magecomp.com/media/button.webp"></a>
+<a href="https://magecomp.com/magento-2-mobile-login-free.html" target="_blank"><img width="150" height="46" src="https://magecomp.com/media/button.webp"></a>
 
 # Impressive😎! Witness How Effortlessly Everything is Accomplished!
 
 ![Screenshot (17)](https://github.com/magecomp/magento2-mobile-login-free/assets/8856845/ede946ac-fa7e-46fb-8932-b1b8b7c3137b)
 
 # Contribute & Explore Your Coding Skills
-We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 ChatGPT AI Content Generator module. Be ready to hit your keyboard keys & get listed today!
+We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Mobile OTP Login module. Be ready to hit your keyboard keys & get listed today!
 
 <a href="https://github.com/magecomp/Magento-2-ChatGPT-AI-Content-Generator/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=magecomp/Magento-2-ChatGPT-AI-Content-Generator" />
