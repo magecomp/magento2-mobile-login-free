@@ -12,8 +12,8 @@ MageComp's FREE Magento 2 Mobile OTP Login extension expedites the sign-in proce
 # Contribute & Explore Your Coding Skills
 We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Mobile OTP Login module. Be ready to hit your keyboard keys & get listed today!
 
-<a href="https://github.com/magecomp/Magento-2-ChatGPT-AI-Content-Generator/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=magecomp/Magento-2-ChatGPT-AI-Content-Generator" />
+<a href="https://github.com/magecomp/magento2-mobile-login-free/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=magecomp/magento2-mobile-login-free" />
 </a>
 
 # Unique Offerings
