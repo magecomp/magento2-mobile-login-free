@@ -17,7 +17,7 @@ We're always interested in growing mutually by inviting developers & motivating 
 </a>
 
 # Unique Offerings
-* Customers can login with a mobile number
+* Customers can log in with a mobile number
 * 2 available options for signing in (using a mobile number or email)
 * Add mobile number from My Account
 * Easy plug-and-play configuration
@@ -44,7 +44,6 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 
 ![Screenshot (20)](https://github.com/magecomp/magento2-mobile-login-free/assets/8856845/c0a5c632-fa58-4b84-bba4-2a3d26e4358e)
 
-
 # Features
 
 * Allow Customers to Log in with Mobile Number
@@ -69,7 +68,7 @@ Installation doesn't require any complex integration process. Simply install it 
 
 ![Screenshot (15)](https://github.com/magecomp/magento2-mobile-login-free/assets/8856845/4fbdcc74-fcc1-427e-be0b-ce3a88971473)
 
-3. Display of mobile number field in the account information on the frontend of your store.
+3. Display of mobile number field in the account information on the front end of your store.
 
 ![Screenshot (16)](https://github.com/magecomp/magento2-mobile-login-free/assets/8856845/66ba9c49-0a15-4ce2-900f-2d6605bf9255)
 
